@@ -1,5 +1,7 @@
 # Employee Attendance System
 
+## Software Setup
+
 **Step 2.1: Install Python**
 
 The code in this article is built using Python version 3.5. Although there are multiple ways to install Python, I would recommend using Anaconda – the most popular Python distribution for data science. Here is a link to install Anaconda in your system.
